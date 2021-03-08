@@ -1,0 +1,38 @@
+.img2{
+    width: 250px;
+    height: 200px;
+    text-align: center;
+}
+.img1{
+    width: 450px;
+    height: 400px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+#achievementsID{
+    padding-bottom: 10px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: #ff7700;
+}
+.img-responsive{
+    width: 550px;
+    height: 350px;
+}
